@@ -1,0 +1,60 @@
+.img-1 {
+    width: 550px;
+    height: 450px;
+    margin-left: 20px;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+html, body {
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+}
+
+figcaption {margin-left: 20px;}
+
+body {
+    background-color: #60ee9b; 
+    background-image: linear-gradient(to bottom, #60ee9b, #de03fb, #e12b80); 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.paragraph-one{
+    font-size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph-two{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
+
+.paragraph-three{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+
+.paragraph-four{
+    font-size: 20px;
+    color: #ffff00;
+    margin-left: 10px;
+    margin-top: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.img-2{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
